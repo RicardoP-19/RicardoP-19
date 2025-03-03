@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Welcome to my digital world!
 
-<!--
-**RicardoP-19/RicardoP-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, great to have you here!  
+I'm Ricardo Pinto, a certified Frontend Developer specializing in JavaScript and Angular. With passion, I transform pixels into stunning digital experiences.  
+Feel free to explore my portfolio!
 
-Here are some ideas to get you started:
+## 🌍 Learn more about my work & projects  
+➡️ **Portfolio:** [https://ricardo-pinto.com](https://ricardo-pinto.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Let's connect!  
+📧 **Email:** contact@ricardo-pinto.com
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ricardo-pinto-developer)
+
+## 🛠️ Tech Stack & Skills  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+</p>
+
+<br><br>
+
+Enjoy exploring my profile! 😊
