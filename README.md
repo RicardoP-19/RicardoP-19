@@ -8,7 +8,7 @@ Feel free to explore my portfolio!
 ➡️ **Portfolio:** [https://ricardo-pinto.com](https://ricardo-pinto.com)  
 
 ## 📬 Let's connect!  
-📧 **Email:** contact@ricardo-pinto.com
+📧 **Email:** ricardo-pinto@web.de
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ricardo-pinto-developer)
 
