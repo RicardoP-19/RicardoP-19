@@ -4,8 +4,6 @@ Hey, great to have you here!
 I'm Ricardo Pinto, a certified Frontend Developer specializing in JavaScript and Angular. I wield the CSS hammer like Thor and build web apps that don’t just look good, but truly perform.  
 Feel free to explore my portfolio!
 
-<br>
-
 ## 🛠️ Tech Stack & Skills  
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
@@ -18,6 +16,8 @@ Feel free to explore my portfolio!
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
 </p>
 
+<br>
+
 ## 🌍 Learn more about my work & projects  
 ➡️ **Portfolio:** [https://ricardo-pinto.com](https://ricardo-pinto.com)  
 
@@ -25,7 +25,5 @@ Feel free to explore my portfolio!
 📧 **Email:** ricardo-pinto@web.de
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ricardo-pinto-developer)
-
-<br>
 
 Enjoy exploring my profile! 😊
