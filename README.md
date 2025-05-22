@@ -17,15 +17,15 @@ Feel free to explore my portfolio!
 </p>
 
 <br>
-##  Pacman!
+
+## 👾 Pacman!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoP-19/RicardoP-19/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardoP-19/RicardoP-19/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RicardoP-19/RicardoP-19/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-<br>
+<br><br>
 
 ## 🌍 Learn more about my work & projects  
 ➡️ **Portfolio:** [https://ricardo-pinto.com](https://ricardo-pinto.com)  
@@ -34,5 +34,3 @@ Feel free to explore my portfolio!
 📧 **Email:** ricardo-pinto@web.de
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ricardo-pinto-developer)
-
-Enjoy exploring my profile! 😊
