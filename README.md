@@ -6,9 +6,9 @@ Feel free to explore my portfolio!
 
 ## 🛠️ Tech Stack & Skills  
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
