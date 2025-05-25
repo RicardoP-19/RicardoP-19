@@ -1,7 +1,7 @@
 # 👋 Welcome to my digital world!
 
-Hey, great to have you here!  
-I'm Ricardo Pinto, a certified Frontend Developer specializing in JavaScript and Angular. I wield the CSS hammer like Thor and build web apps that don’t just look good, but truly perform.  
+Hi, great to have you here!  
+I’m Ricardo Pinto, a certified Frontend Developer specializing in Angular and JavaScript. With clean code and an eye for detail, I build web applications that not only look great but also perform flawlessly.
 Feel free to explore my portfolio!
 
 ## 🛠️ Tech Stack & Skills  
