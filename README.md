@@ -30,7 +30,5 @@ Feel free to explore my portfolio!
 ## 🌍 Learn more about my work & projects  
 ➡️ **Portfolio:** [https://ricardo-pinto.com](https://ricardo-pinto.com)  
 
-## 📬 Let's connect!  
-📧 **Email:** ricardo-pinto@web.de
-
+## 📬 Let's connect!
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ricardo-pinto-developer)
