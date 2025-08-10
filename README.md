@@ -5,16 +5,35 @@ I’m Ricardo Pinto, a certified Frontend Developer specializing in Angular and 
 Feel free to explore my portfolio!
 
 ## 🛠️ Tech Stack & Skills  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="scss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="material design logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+</div>
 
 <br>
 
@@ -25,7 +44,3 @@ Feel free to explore my portfolio!
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RicardoP-19/RicardoP-19/output/pacman-contribution-graph.svg">
 </picture>
 
-<br><br>
-
-## 📬 Let's connect!
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ricardo-pinto-developer)
