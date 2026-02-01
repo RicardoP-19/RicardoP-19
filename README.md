@@ -5,14 +5,6 @@ I care about clean code, solid architecture, and pixel-level detail. Have a look
 
 ## 🛠️ Tech Stack & Skills
 
-### 📚 Currently Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django" height="42" alt="Django" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" />
-  <img width="8" />
-</p>
-
 ### 🧠 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" />
